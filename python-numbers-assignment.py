@@ -1,6 +1,6 @@
-PI=3.14
+P=3.14
 x=75
-print(PI,type(PI),sep=',')
+print(P,type(P),sep=',')
 print(x,type(x),sep=',')
 
 x=1+2j
